@@ -54,7 +54,7 @@ def send_about(message):
         temp = Template(content)
         about = temp.substitute(
             STUDENT_NAME = 'Product Team',
-            GITHUB_REPO_LINK = 'https://github.com/jafarhf1/algo-telebot'
+            GITHUB_REPO_LINK = 'https://github.com/product-rnd/algo-telebot'
         )
 
     bot.send_message(
