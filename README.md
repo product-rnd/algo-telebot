@@ -1,6 +1,6 @@
 # Telegram Chatbot
 
-This is developed as one of [Algoritma Academy](https://algorit.ma/) Data Analytics Specialization Capstone Projects. The deliverable of this project is a Python script to create a Telegram chatbot using `telebot` package. We will also deploy the chatbot to [Railway](https://railway.app/) and use `Flask` to set up the backend application.
+This is developed as one of [Algoritma Academy](https://algorit.ma/) Data Analytics Specialization Capstone Projects. The deliverable of this project is a Python script to create a Telegram chatbot using `telebot` package. We will also deploy the chatbot to [Python Anywhere](https://pythonanywhere.com) and use `Flask` to set up the backend application.
 
 ## Project File Structure
 
@@ -115,7 +115,9 @@ Reply from bot after campaign ID is selected:
 ### Deployed Application
 
 <p align="center" width="100%">
-    <img src="assets/readme/deployed-app-railway.png" width="350px"> 
+    <img src="assets/readme/deployed-app-pythonanywhere.png" width="350px"> 
 </p>
 
-This bot is expected to run **continuously** on a server. Therefore we create a `Flask` application which deployed to Railway. 
+This bot is expected to run **continuously** on a server. Therefore we create a `Flask` application which deployed to [Python Anywhere](https://pythonanywhere.com). 
+
+
